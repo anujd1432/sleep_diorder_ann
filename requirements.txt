@@ -1,0 +1,4 @@
+streamlit==1.45.1
+numpy==1.26.4
+tensorflow-cpu==2.19.0
+h5py==3.14.0
